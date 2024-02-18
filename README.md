@@ -1,14 +1,14 @@
-<h1>GroupConnect</h1>
+# GroupConnect
 
-<b>GroupConnect</b> is a community social media app designed specifically for CSE (AI&ML). It aims to provide a platform where members can connect, communicate, and collaborate seamlessly. 
+**GroupConnect** is a community social media app designed specifically for CSE (AI&ML). It aims to provide a platform where members can connect, communicate, and collaborate seamlessly. 
 
-<h4>Installation</h4>
+## Installation
 ```
 git clone https://github.com/your-username/GroupConnect.git
 cd GroupConnect
 ```
 
-<h4>Contribution</h4>
+## Contribution
 1) Clone the repository with the help of Installation steps
 2) Make your changes
 3) Add all the files and commit them with appropriate messages
