@@ -12,6 +12,11 @@ cd GroupConnect
 1) Clone the repository with the help of Installation steps
 2) Make your changes
 3) Add all the files and commit them with appropriate messages
-4) Submit a Pull Request to the main branch
+   ```
+   git add
+   git commit
+   git push
+   ```
+5) Submit a Pull Request to the main branch
 
 
