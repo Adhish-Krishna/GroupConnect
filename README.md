@@ -1,4 +1,4 @@
-# GroupConnect
+<h1>GroupConnect</h1>
 
 <b>GroupConnect</b> is a community social media app designed specifically for CSE (AI&ML). It aims to provide a platform where members can connect, communicate, and collaborate seamlessly. 
 
